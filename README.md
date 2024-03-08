@@ -1,4 +1,5 @@
 Gestão de Gastos
+
 O projeto de Gestão de Gastos é uma aplicação desenvolvida em C# para ajudar os usuários a controlar e registrar seus gastos pessoais. Com esta aplicação, os usuários podem cadastrar seus CPFs e, em seguida, realizar lançamentos de gastos, permitindo uma gestão mais eficiente de suas finanças. O banco de dados utilizado é o MySQL.
 
 Instalação
