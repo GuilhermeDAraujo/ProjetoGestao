@@ -65,3 +65,4 @@ C:\Users\guilh\OneDrive\Documentos\Guilherme\C#\ProjetoGestao2\ProjetoGestao2\bi
 C:\Users\guilh\OneDrive\Documentos\Guilherme\C#\ProjetoGestao2\ProjetoGestao2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
 C:\Users\guilh\OneDrive\Documentos\Guilherme\C#\ProjetoGestao2\ProjetoGestao2\obj\Debug\net8.0-windows\ProjetoGestao2.Lancamento.resources
 C:\Users\guilh\OneDrive\Documentos\Guilherme\C#\ProjetoGestao2\ProjetoGestao2\obj\Debug\net8.0-windows\ProjetoGestao2.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Documentos\Guilherme\C#\ProjetoGestao2\ProjetoGestao2\obj\Debug\net8.0-windows\ProjetoGestao2.sourcelink.json
