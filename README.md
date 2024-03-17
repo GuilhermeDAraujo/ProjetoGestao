@@ -21,3 +21,5 @@ Após instalar a aplicação de Gestão de Gastos, você poderá:
 2 - Realizar lançamentos de gastos, informando a data, categoria e valor do gasto
 3 - Visualizar um resumo dos seus gastos, incluindo total gasto por categoria e período
 4 - Editar ou excluir lançamentos de gastos existentes
+
+Obs: O banco de dados está na pasta 'Projeto Banco de Dados' dentro do projeto.
